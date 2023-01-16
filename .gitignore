@@ -4,5 +4,6 @@ __pycache__/
 .vscode/
 .DS_Store
 
-.key
-.tar.gz
+*.key
+*.tar.gz
+c02_data_and_training/data/cifar-100-python/
